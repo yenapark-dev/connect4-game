@@ -1,0 +1,36 @@
+/Users/yenapark/Projects/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/yenapark/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/yenapark/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/yenapark/Projects/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/yenapark/Projects/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/yenapark/Projects/test/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/yenapark/OneDrive - Queensland University of Technology/Documents/21-1/563/Projects/test/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache
